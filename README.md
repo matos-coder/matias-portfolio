@@ -2,9 +2,9 @@
 
 ## Getting Started
 
-I have developed this theme as a personal proyect. I have taked the inspiration from the wonderful work of Britanny Chiang. You can visit her repo [here](https://github.com/bchiang7/v4)
+I have developed this theme as a personal project. I took inspiration from the wonderful work of Brittany Chiang. You can visit her repository [here](https://github.com/bchiang7/v4)
 
-Because I'm not a ReactJS expert (language of the Britanny's proyect), and I liked so much the design, I decided to develop this proyect with Angular's architecture. The website is not connected to any api yet, nither it has dinamic content so that all the content is static inside the HTML files in Angular. I want to connect it to an API in the future, from where i can manage in an easy way without having touch the HTML files in angular.
+Since I'm not an expert in ReactJS (the language used in Brittany's project), but I really liked the design, I decided to develop this project using Angular's architecture. The website is not yet connected to any API, and it doesn't have dynamic content. Therefore, all the content is static and stored inside the HTML files in Angular. In the future, I plan to connect it to an API, which will allow me to easily manage the content without having to modify the HTML files in Angular.
 
 ### Prerequisites
 
