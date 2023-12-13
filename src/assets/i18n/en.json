@@ -13,8 +13,8 @@
 
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "In my <span class='underline'>4 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Laravel and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
-        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "In my <span class='underline'>dynamic journey as a developer</span>, I seek to train every day. I have cultivated a relentless passion for learning and growth. Throughout my career, I have dedicated myself to daily training, honing my skills to become a versatile and adaptive professional.",
+        "In addition to my technical expertise, I have a knack for implementing system improvements and optimizing websites. I strive to identify and standardize patterns that enhance efficiency and consistency. Moreover, I am proactive in suggesting and executing ideas that bring value to the projects I am involved in.",
         "Some of the technologies that I have trained and worked on include (but are not limited to):"
     ],
 
@@ -193,7 +193,7 @@
     ],
     "Contact.Pretitle": "What’s Next",
     "Contact.Title": "Get in touch!",
-    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Content": "If you're interested in discussing new opportunities, please feel free to reach out. I'll be delighted to receive your contact, and I'll respond promptly upon seeing your message.",
     "Contact.Btn": "Say Hello"
 
 
