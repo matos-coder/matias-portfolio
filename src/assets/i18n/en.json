@@ -85,8 +85,8 @@
     "FeatureProjects.Title": "My projects",
     "FeatureProjects.Label": "Featured Project",
     "FeatureProjects.Projects": [{
-            "Title": "Agrourbana",
-            "Description": "Monitoring application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
+            "Title": "Team and Project managment",
+            "Description": "I have developed a web application that helps big companies to keep track of their employees’ projects and tasks. The app allows admins to assign, approve, and monitor the progress of projects and tasks for their employees. The app also allows employees to create, submit, and view the progress of their own projects and tasks. The app is designed to improve the efficiency and productivity of the workplace by providing a clear and </span>, and <span class='underline'>easy-to-use interface</span> for managing work. ",
             "imgs": [
                 "assets/images/agrourbana/agrourbana1.png",
                 "assets/images/agrourbana/agrourbana2.png",
@@ -94,11 +94,11 @@
                 "assets/images/agrourbana/agrourbana4.png",
                 "assets/images/agrourbana/agrourbana5.png"
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "Technologies": ["ASP.NET", "Angular", "C#", "Angular Material", "RxJS", "MSSQL"]
         },
         {
-            "Title": "Tu super plan",
-            "Description": "Health plan quote that has a search engine with which advanced queries are made. Plans are displayed based on the user's age, monthly income, and location. It has <span class='underline'>online chat</span, <span class='underline'>contact form</span>, <span class='underline'>notification system by whatsapp and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>internet information management through the role of administrator.</span>",
+            "Title": "SMS Service",
+            "Description": "SMS service is bulk Sms sender for big Organization with a clear and beautiful interface ",
             "imgs": [
                 "assets/images/tusuperplan/tusuperplan1.png",
                 "assets/images/tusuperplan/tusuperplan2.png",
@@ -106,7 +106,7 @@
                 "assets/images/tusuperplan/tusuperplan4.png",
                 "assets/images/tusuperplan/tusuperplan5.png"
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "Technologies": ["ASP.NET", "Angular", "C#", "Angular Material", "MSSQL"]
         },
         {
             "Title": "Proyexiot",

@@ -84,10 +84,10 @@
     ],
 
     "FeatureProjects.Title": "ፕሮጀክቶች",
-    "FeatureProjects.Label": "Proyecto Destacado",
+    "FeatureProjects.Label": "Featured project",
     "FeatureProjects.Projects": [{
-            "Title": "Agrourbana",
-            "Description": "Aplicación de monitoreo realizada desde cero con módulo de auth, <span class='underline'>gráficos configurables</span>, <span class='underline'>alarmas configurables</span> y <span class='underline'>gestión de usuarios</span>. Cuenta también con lógica de formularios reactvios para la configuración de parámetros.",
+            "Title": "Team and Project managment",
+            "Description": "I have developed a web application that helps big companies to keep track of their employees’ projects and tasks. The app allows admins to assign, approve, and monitor the progress of projects and tasks for their employees. The app also allows employees to create, submit, and view the progress of their own projects and tasks. The app is designed to improve the efficiency and productivity of the workplace by providing a clear and </span>, and <span class='underline'>easy-to-use interface</span> for managing work. ",
             "imgs": [
                 "assets/images/agrourbana/agrourbana1.png",
                 "assets/images/agrourbana/agrourbana2.png",
@@ -95,11 +95,11 @@
                 "assets/images/agrourbana/agrourbana4.png",
                 "assets/images/agrourbana/agrourbana5.png"
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "Technologies": ["ASP.NET", "Angular", "C#", "Angular Material", "RxJS", "MSSQL"]
         },
         {
-            "Title": "Tu super plan",
-            "Description": "Cotizador de planes de salud que cuenta con un buscador con el que se hacen consultas avanzadas. Los planes son mostrados en base a la edad, ingreso mensual y ubicacion del usuario. Cuenta con <span class='underline'>chat en linea</span>, <span class='underline'>formulario de contacto</span>, <span class='underline'>sistema de notificaiones por whatsapp y correo</span>, <span class='underline'>auth</span>, y <span class='underline'>gestion de informacion internet a travez del rol de administrador</span>.",
+            "Title": "SMS Service",
+            "Description": "SMS service is bulk Sms sender for big Organization with a clear and beautiful interface",
             "imgs": [
                 "assets/images/tusuperplan/tusuperplan1.png",
                 "assets/images/tusuperplan/tusuperplan2.png",
@@ -107,7 +107,7 @@
                 "assets/images/tusuperplan/tusuperplan4.png",
                 "assets/images/tusuperplan/tusuperplan5.png"
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "Technologies": ["ASP.NET", "Angular", "C#", "Angular Material", "MSSQL"]
         },
         {
             "Title": "Proyexiot",
