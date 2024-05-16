@@ -4,7 +4,7 @@
   "Header.Item3": "Projects",
   "Header.Item4": "Contact",
   "Header.cvBtn": "Resume",
-  "Header.cvName": "CV_Matias_Ashenafi.pdf",
+  "Header.cvName": "my resume - 2024-03-22 06_57_44.pdf",
 
   "Banner.Pretitle": "Hello! My name is",
   "Banner.Description": "Welcome to my portfolio! I am a skilled and passionate website developer with a strong background in crafting dynamic and efficient web solutions. My expertise lies in utilizing cutting-edge technologies, with a focus on <span class='underline'>Angular</span> and <span class='underline'>ASP.NET C#</span>. With extensive experience in developing robust and scalable web applications, I bring a wealth of knowledge to every project.",
@@ -20,67 +20,29 @@
   "Experience.Title": "Experience",
   "Experience.Jobs": [
     {
-      "Tab": "Project",
-      "Title": "Fullstack developer",
-      "Date": "December 2019 - Present",
+      "Tab": "DAFTech",
+      "Title": "Front-end Developer | Full-stack web developer",
+      "Date": "July 2022 - Present",
       "Description": [
-        "Creation and maintenance of a monitoring platform with graphics in WordPress.",
-        "Functional programming in templates and plugins to add the necessary monitoring features.",
-        "Implementation of continuous integration and daily backups.",
-        "Creation and maintenance of a second Monitoring Platform Done in Angular, Angular Material, Laravel, Mysql, RxJS, Sass with graphics (configurable), alarm system, and user management and configuration of general parameters.",
+        "I leveraged my front-end development skills, particularly in Angular, to contribute to web application development for DAFTech, a social impact organization.",
+        "My work involved building new features and functionalities, collaborating with a remote team, and writing clean, maintainable code.",
+        "I'm proficient in unit testing and debugging to ensure high-quality deliverables.",
+        "Developing and implementing new features and functionalities for web applications using Angular and ASP.NET.",
         "Planning meetings in reports."
       ]
     },
     {
-      "Tab": "Freelancer",
-      "Title": "Independent",
-      "Date": "May 2016 - Present",
+      "Tab": " Ethiojobs",
+      "Title": "Software Developer",
+      "Date": "August 2021 - October 2021",
       "Description": [
         "Implementing continuous improvements, working on frontend and backend.",
-        "Creating platforms with Angular, Laravel, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-        "Automation of processes with data structures.",
-        "Design layout with SASS, Bootstrap, Materialize, Bulma, etc."
-      ]
-    },
-    {
-      "Tab": "Moebius",
-      "Title": "FullStack developer",
-      "Date": "July 2017 - October 2018",
-      "Description": [
-        "Leading a team of 4 people in the development of a Tourism Data management platform made in Angular, Laravel, and MySQL.",
-        "Implementation CI / CD in Azure. Refactoring and optimizing application load times.",
-        "Coding of API requests with RxJS.",
-        "Creation of modules with complex reactive forms",
-        "Writing weekly reports about goals and plans."
-      ]
-    },
-    {
-      "Tab": "TechLatam",
-      "Title": "Frontend developer",
-      "Date": "February 2016 - May 2017",
-      "Description": [
-        "Creation of WordPress templates with ACF, functional programming in Javascript / jQuery, styles in SASS",
-        "integration of design improvements, and template loading times.",
-        "Effective communication with the design team, working with Avocode / Figma."
-      ]
-    },
-    {
-      "Tab": "CANTV",
-      "Title": "System analyst",
-      "Date": "November 2015 - December 2016",
-      "Description": [
-        "Programming of new functionalities for an existing employee management platform made in Angular and ExpressJS.",
-        "Perform refactoring of old code. Ensuring compatibility of every dependency in every update, along with regular Angular update as well."
-      ]
-    },
-    {
-      "Tab": "IEP",
-      "Title": "English teacher",
-      "Date": "January 2015 - July 2015",
-      "Description": [
-        "Teaching English at a basic level to an enrollment of more than 200 students."
+        "Collaborated with cross-functional teams to develop web applications with node.js and express.js, resulting in a 15% increase in customer satisfaction and retention.",
+        "Collaborating with interns and senior developers to brainstorm and implement ideas into web app development resulted in a 30% improvement in app performance and a 25% reduction in load time, enhancing user experience.",
+        "Gathering user requirements and building project documentation for a system upgrade, leading to a 30% improvement in system performance and a 25% reduction in system downtime."
       ]
     }
+
   ],
 
   "FeatureProjects.Title": "My projects",
@@ -91,11 +53,11 @@
       "Description": "Developed a comprehensive Enterprise Resource Planning (ERP) system to centralize and manage critical business functions. This full-stack web application utilizes Angular for a user-friendly front-end experience and ASP.NET Core for a robust and scalable back-end infrastructure.",
       "imgs": [
         "assets/images/midwife/Capture.PNG",
-        "assets/images/midwife/Capture1.png",
-        "assets/images/midwife/Capture01.png",
-        "assets/images/midwife/Capture2.png",
-        "assets/images/midwife/Capture3.png",
-        "assets/images/midwife/Capture4.png"
+        "assets/images/midwife/Capture1.PNG",
+        "assets/images/midwife/Capture01.PNG",
+        "assets/images/midwife/Capture2.PNG",
+        "assets/images/midwife/Capture3.PNG",
+        "assets/images/midwife/Capture4.PNG"
       ],
       "Technologies": ["ASP.NET",
       "Angular",
@@ -138,68 +100,18 @@
     },
 
     {
-      "Title": "Hands game",
-      "Description": "The rock-paper-scissors game extended. A personal project developed in angular in which you play randomly against the machine. It has the use of services, interfaces, and components.",
-      "imgs": ["assets/images/hands-game.png"],
-      "ghLink": "https://github.com/andresjosehr/hands-game",
-      "demoLink": "https://projects.andresjosehr.com/hands-game",
+      "Title": "Trans Nation Airways Website",
+      "Description": "Developed a user-friendly and informative website for Trans Nation Airways (TNA), a leading Ethiopian charter airline. The redesigned website streamlines the user experience for both potential customers and existing clients",
+      "imgs": ["assets/images/tna/Capture.PNG"],
+      "ghLink": "https://github.com/matos-coder/MDW_Digital_Marketing_Website",
+      "demoLink": "https://www.tna.com.et/",
       "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
-    },
-    {
-      "Title": "Countries viewer",
-      "Description": "An interface that consumes an API of countries with which you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
-      "imgs": ["assets/images/countries-viewer.png"],
-      "ghLink": "https://github.com/andresjosehr/countries-viewer",
-      "demoLink": "https://projects.andresjosehr.com/countries-viewer",
-      "Technologies": ["Angular", "RxJS", "SASS", "API"]
+
     }
+
   ],
 
-  "OtherProjects.Title": "More projects",
-  "OtherProjects.Projects": [
-    {
-      "Title": "Pokemon",
-      "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
-      "ghLink": "https://github.com/andresjosehr/pokemon-angular",
-      "demoLink": "https://projects.andresjosehr.com/pokemon-list",
-      "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
-    },
-    {
-      "Title": "Coming soon page",
-      "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
-      "ghLink": "https://github.com/andresjosehr/coming-soon-page",
-      "demoLink": "https://projects.andresjosehr.com/coming-soon-page",
-      "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
-    },
-    {
-      "Title": "Four card feature section",
-      "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
-      "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
-      "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
-      "Technologies": ["Angular", "SASS", "CSS GRID"]
-    },
-    {
-      "Title": "Social proof section",
-      "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
-      "ghLink": "https://github.com/andresjosehr/social-proof-section",
-      "demoLink": "https://projects.andresjosehr.com/social-proof-section",
-      "Technologies": ["Angular", "CSS GRID", "GIT"]
-    },
-    {
-      "Title": "FAQ accordion card",
-      "Description": "FAQ accordion with logic and animations made in Angular.",
-      "ghLink": "https://github.com/andresjosehr/faq-accordion",
-      "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
-      "Technologies": ["Angular", "CSS GRID", "Angular animations"]
-    },
-    {
-      "Title": "Profile card",
-      "Description": "Simple one-page design that features a profile letter with basic information about a person.",
-      "ghLink": "https://github.com/andresjosehr/profile-card-component",
-      "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
-      "Technologies": ["Angular", "SASS", "GIT"]
-    }
-  ],
+
   "Contact.Pretitle": "What’s Next",
   "Contact.Title": "Get in touch!",
   "Contact.Content": "If you're interested in discussing new opportunities, please feel free to reach out. I'll be delighted to receive your contact, and I'll respond promptly upon seeing your message.",
