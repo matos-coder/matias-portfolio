@@ -203,3 +203,12 @@ a{
 
 
 
+
+.particles-js {
+  position: fixed; /* Fix the position to the viewport */
+  width: 100%;
+  height: 100%;
+  z-index: 0; /* Send the particles container to the background */
+  top: 0;
+  left: 0;
+}
