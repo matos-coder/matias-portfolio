@@ -4,17 +4,17 @@
   "Header.Item3": "Projects",
   "Header.Item4": "Contact",
   "Header.cvBtn": "Resume",
-  "Header.cvName": "my resume - 2024-03-22 06_57_44.pdf",
+  "Header.cvName": "Matias Ashenafi CV.pdf",
 
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "Welcome to my portfolio! I am a skilled and passionate website developer with a strong background in crafting dynamic and efficient web solutions. My expertise lies in utilizing cutting-edge technologies, with a focus on <span class='underline'>Angular</span> and <span class='underline'>ASP.NET C#</span>. With extensive experience in developing robust and scalable web applications, I bring a wealth of knowledge to every project.",
+  "Banner.Description": "I am a **Backend-Focused Full-Stack Developer** dedicated to building high-availability enterprise systems. I specialize in architecting scalable solutions with <span class='underline'>.NET, NestJS, and Node.js</span>, transforming complex business requirements into high-performance digital reality.",
   "Banner.ActionBtn": "Get in touch",
 
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
-    "In my <span class='underline'>dynamic journey as a developer</span>, I seek to train every day. I have cultivated a relentless passion for learning and growth. Throughout my career, I have dedicated myself to daily training, honing my skills to become a versatile and adaptive professional.",
-    "In addition to my technical expertise, I have a knack for implementing system improvements and optimizing websites. I strive to identify and standardize patterns that enhance efficiency and consistency. Moreover, I am proactive in suggesting and executing ideas that bring value to the projects I am involved in.",
-    "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    "I don't just write code; I build <span class='underline'>scalable digital infrastructure</span>. My journey is defined by a commitment to engineering excellence, focusing on system reliability, data integrity, and performance optimization.",
+    "With a deep background in **Enterprise ERP systems**, I specialize in modernizing legacy workflows and architecting secure APIs that handle millions of records. I focus on standardizing design patterns to ensure long-term maintainability and system stability.",
+    "My core technology stack includes:"
   ],
 
   "Experience.Title": "Experience",
@@ -24,11 +24,11 @@
       "Title": "Front-end Developer | Full-stack web developer",
       "Date": "July 2022 - Present",
       "Description": [
-        "I leveraged my front-end development skills, particularly in Angular, to contribute to web application development for DAFTech, a social impact organization.",
-        "My work involved building new features and functionalities, collaborating with a remote team, and writing clean, maintainable code.",
-        "I'm proficient in unit testing and debugging to ensure high-quality deliverables.",
-        "Developing and implementing new features and functionalities for web applications using Angular and ASP.NET.",
-        "Planning meetings in reports."
+        "Led end-to-end development of high-volume enterprise systems (TMS), successfully supporting 5M+ regional users.",
+        "Architected core backend services using ASP.NET Core,NestJS ensuring high availability through optimized database schema design and MSSQL tuning.",
+        "Engineered complex business modules, including vehicle valuation algorithms and legal compliance engines (Court Bans).",
+        "Modernized manual government workflows into digital systems, reducing processing times from days to minutes.",
+        "Collaborated with cross-functional teams to translate regional regulations into secure, scalable technical solutions."
       ]
     },
     {
@@ -36,10 +36,10 @@
       "Title": "Software Developer",
       "Date": "August 2021 - October 2021",
       "Description": [
-        "Implementing continuous improvements, working on frontend and backend.",
-        "Collaborated with cross-functional teams to develop web applications with node.js and express.js, resulting in a 15% increase in customer satisfaction and retention.",
-        "Collaborating with interns and senior developers to brainstorm and implement ideas into web app development resulted in a 30% improvement in app performance and a 25% reduction in load time, enhancing user experience.",
-        "Gathering user requirements and building project documentation for a system upgrade, leading to a 30% improvement in system performance and a 25% reduction in system downtime."
+        "Developed and optimized web applications within an Agile environment, contributing to both frontend and backend modules.",
+        "Streamlined system performance through targeted API optimizations and efficient frontend state management.",
+        "Gathered and documented technical requirements for major system upgrades, leading to measurable reductions in system downtime.",
+        "Collaborated with senior engineers to implement modern design patterns, improving overall application responsiveness."
       ]
     }
 
@@ -49,66 +49,44 @@
   "FeatureProjects.Label": "Featured Project",
   "FeatureProjects.Projects": [
     {
-      "Title": "Streamlined Business Management (ERP)",
-      "Description": "Developed a comprehensive Enterprise Resource Planning (ERP) system to centralize and manage critical business functions. This full-stack web application utilizes Angular for a user-friendly front-end experience and ASP.NET Core for a robust and scalable back-end infrastructure.",
+      "Title": "Regional Transport Management System (TMS)",
+      "Description": "A mission-critical ERP built from scratch to digitize regional transport administration. As Lead Developer, I architected the Vehicle Lifecycle Module, handling complex legal workflows like Court Bans, Ownership Transfers, and Tax Valuation algorithms. I led the migration of millions of legacy records into a secure MSSQL schema, ensuring transactional consistency and reducing processing times from days to minutes.",
       "imgs": [
-        "assets/images/midwife/Capture.PNG",
-        "assets/images/midwife/Capture1.PNG",
-        "assets/images/midwife/Capture01.PNG",
-        "assets/images/midwife/Capture2.PNG",
-        "assets/images/midwife/Capture3.PNG",
-        "assets/images/midwife/Capture4.PNG"
-      ],
-      "Technologies": ["ASP.NET",
-      "Angular",
-      "C#",
-      "Angular Material",
-      "Bootstrap",
-      "RxJS",
-      "MSSQL"]
-    },
-    {
-      "Title": "Team and Project management",
-      "Description": "I have developed a web application that helps big companies to keep track of their employees’ projects and tasks. The app allows admins to assign, approve, and monitor the progress of projects and tasks for their employees. The app also allows employees to create, submit, and view the progress of their own projects and tasks. The app is designed to improve the efficiency and productivity of the workplace by providing a clear and </span>, and <span class='underline'>easy-to-use interface</span> for managing work. ",
-      "imgs": [
-        "assets/images/team&pm/Capture.PNG",
-        "assets/images/team&pm/Capture1.PNG",
-        "assets/images/team&pm/Capture2.PNG",
-        "assets/images/team&pm/Capture3.PNG"
+        "assets/images/tms/architecture-diagram.PNG",
+        "assets/images/tms/dashboard-preview.PNG"
       ],
       "Technologies": [
-        "ASP.NET",
+        "ASP.NET Core",
         "Angular",
         "C#",
-        "Angular Material",
-        "RxJS",
-        "MSSQL"
+        "MSSQL",
+        "Docker",
+        "REST API",
+        "Entity Framework"
       ]
     },
     {
-      "Title": "SMS Service",
-      "Description": "Developed a user-friendly bulk SMS sender application designed for large organizations. This Angular-based application simplifies bulk SMS communication with a clear and visually appealing interface ",
+      "Title": "Addis Ababa Tourism Digital Platform",
+      "Description": "A high-performance tourism portal designed to showcase Addis Ababa to a global audience. I implemented a Headless CMS architecture to decouple content management from the frontend. Using Next.js and Static Site Generation (SSG), I achieved sub-second load times and high SEO rankings. The system empowers non-technical staff to manage dynamic events, destination guides, and weekly newsletters via an intuitive Strapi dashboard.",
       "imgs": [
-        "assets/images/SMS/Capture.PNG",
-        "assets/images/SMS/Capture1.PNG",
-        "assets/images/SMS/Capture2.PNG",
-        "assets/images/SMS/Capture3.PNG",
-        "assets/images/SMS/Capture4.PNG"
-
+        "assets/images/aatc/hero.png",
+        "assets/images/aatc/1.png",
+        "assets/images/aatc/4.png",
+        "assets/images/aatc/2.png",
+        "assets/images/aatc/3.png",
+        "assets/images/aatc/5.png"
       ],
-      "Technologies": ["ASP.NET", "Angular", "C#", "Angular Material", "MSSQL"]
-    },
-
-    {
-      "Title": "Trans Nation Airways Website",
-      "Description": "Developed a user-friendly and informative website for Trans Nation Airways (TNA), a leading Ethiopian charter airline. The redesigned website streamlines the user experience for both potential customers and existing clients",
-      "imgs": ["assets/images/tna/Capture.PNG"],
-      "ghLink": "https://github.com/matos-coder/MDW_Digital_Marketing_Website",
-      "demoLink": "https://www.tna.com.et/",
-      "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
-
+      "demoLink": "https://aatc-ruby.vercel.app/",
+      "Technologies": [
+        "Next.js",
+        "React",
+        "Strapi (Headless CMS)",
+        "Tailwind CSS",
+        "PostgreSQL",
+        "Vercel",
+        "SEO Optimization"
+      ]
     }
-
   ],
 
 
