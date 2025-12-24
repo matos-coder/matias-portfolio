@@ -49,11 +49,14 @@
   "FeatureProjects.Label": "Featured Project",
   "FeatureProjects.Projects": [
     {
-      "Title": "Regional Transport Management System (TMS)",
+      "Title": "Transport Management System (TMS)",
       "Description": "A mission-critical ERP built from scratch to digitize regional transport administration. As Lead Developer, I architected the Vehicle Lifecycle Module, handling complex legal workflows like Court Bans, Ownership Transfers, and Tax Valuation algorithms. I led the migration of millions of legacy records into a secure MSSQL schema, ensuring transactional consistency and reducing processing times from days to minutes.",
       "imgs": [
-        "assets/images/tms/architecture-diagram.PNG",
-        "assets/images/tms/dashboard-preview.PNG"
+        "assets/images/tms/admin dashboard.jpg",
+        "assets/images/tms/veh reg.jpg",
+        "assets/images/tms/stock.jpg",
+        "assets/images/tms/vrms dashboard.jpg",
+        "assets/images/tms/veh detail.jpg"
       ],
       "Technologies": [
         "ASP.NET Core",
